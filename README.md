@@ -38,29 +38,21 @@ This command launches the UWP app using the same mechanism as the Windows Start 
 
 ---
 
-## 📋 Requirements
-
-- Python 3.8+
-- [wxPython](https://wxpython.org/) (`pip install wxPython`)
-- Windows 10 or 11
+## 📋 Requirements: 
+   ### For application development
+      - Python 3.8+
+      - [wxPython](https://wxpython.org/) (`pip install wxPython`)
+      - Windows 10 or 11
+      
+   ### For the application
+      - Windows 10 or 11
 
 ---
 
 ## 📦 Installation
 
-1. Clone this repository
-
-2. Install dependencies:
-   ```bash
-   pip install wxPython
-   ```
-
-3. Run the application:
-   ```bash
-   python uwp2bat.py
-   ```
-
----
+1. Download the latest executable build, [click here!](https://raw.githubusercontent.com/arycaramez/uwp2bat_for_launch_box/6758d3c74bcd90410d66d93d0467d4ea403ccca6/dist/uwp2bat.exe)
+2. Run `uwp2bat.exe`.
 
 ## 📷 Screenshots (optional)
 
@@ -70,7 +62,7 @@ _Add screenshots of the interface here to help users understand the workflow._
 
 ## ✅ How to Use
 
-1. Launch `uwp2bat.py`.
+1. Launch `uwp2bat.exe`.
 2. Use the search bar to find UWP apps or games.
 3. Check the boxes for the apps you want to convert.
 4. Click **"Generate Executables .BAT"**.
