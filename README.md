@@ -48,11 +48,7 @@ This command launches the UWP app using the same mechanism as the Windows Start 
 
 ## 📦 Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/arycaramez/uwp2bat.git
-   cd uwp2bat
-   ```
+1. Clone this repository
 
 2. Install dependencies:
    ```bash
