@@ -1,1 +1,0 @@
-explorer.exe shell:AppsFolder\BethesdaSoftworks.ProjectAltar_3275kfvn8vcwc!AppUEGameShipping
